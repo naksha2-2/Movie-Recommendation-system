@@ -3,15 +3,7 @@ Movie Recommendation System
 This project implements a Movie Recommendation System using K-Nearest Neighbors (KNN) and Cosine Similarity. The system recommends movies similar to a given movie based on the ratings from the MovieLens dataset.
 
 Table of Contents
-Overview
 
-Installation
-
-Usage
-
-Dependencies
-
-License
 
 Overview
 This project uses the MovieLens 100K dataset to recommend movies based on a given movie's similarity. The similarity is calculated using cosine similarity between movie vectors, which are generated from users' ratings.
