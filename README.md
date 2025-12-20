@@ -96,8 +96,17 @@ Edit
 pip install pandas scikit-learn
 License
 This project is open source and available under the MIT License.
+Overview
 
-Feel free to adapt the details like repository URL, additional features, etc. based on your actual project setup. Let me know if you'd like me to add anything else!
+Installation
+
+Usage
+
+Dependencies
+
+License
+
+
 
 
 
